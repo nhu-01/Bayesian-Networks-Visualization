@@ -14,3 +14,8 @@ Technology used:
 • pgmpy – for building Bayesian Networks and performing inference
 • pandas – for data preprocessing and handling
 • matplotlib – for graph visualization
+
+Resource used: 
+https://www.kaggle.com/code/vbmokin/titanic-predict-using-a-simple-bayesian-network
+
+**This project is inspired by the titanic predict on Kaggle, and is tailored to the uploaded training data.
